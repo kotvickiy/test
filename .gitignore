@@ -1,4 +1,6 @@
-/.gitignore
+.gitignore
+/.git
 /__pycache__
 /win3131
+/lin3123
 config.py
