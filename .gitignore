@@ -1,3 +1,4 @@
+.gitignore
 /__pycache__
 /win3131
 config.py
